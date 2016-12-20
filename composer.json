@@ -1,7 +1,7 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "angrycolony/dompdf",
     "type": "library",
-    "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
+    "description": "Fork of DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
     "license": "LGPL-2.1",
     "authors": [
