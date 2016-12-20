@@ -87,6 +87,9 @@ class TableCell extends Block
                     $bp["left"]["width"]);
                 $method = "_border_" . $bp["top"]["style"];
                 $this->$method($x, $y, $w, $bp["top"]["color"], $widths, "top", "square");
+
+                // we need this to draw bottom line when table ends on page
+                $this->$method($x, $y + $top_row["height"], $w, $bp["top"]["color"], $widths, "top", "square");
             }
 
             if ($draw_bottom) {
