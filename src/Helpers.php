@@ -749,7 +749,7 @@ class Helpers
         list($proto, $host, $path, $file) = Helpers::explode_url($uri);
         $is_local_path = ($proto == "" || $proto === "file://");
 
-        set_error_handler(array("\\Dompdf\\Helpers", "record_warnings"));
+        set_error_handler(array("\\Angrycolony\\Helpers", "record_warnings"));
 
         if ($is_local_path || ini_get("allow_url_fopen")) {
             if (isset($maxlen)) {
