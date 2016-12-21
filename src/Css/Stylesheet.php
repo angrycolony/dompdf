@@ -10,11 +10,11 @@
 namespace Angrycolony\Css;
 
 use DOMXPath;
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Exception;
-use Dompdf\FontMetrics;
-use Dompdf\Frame\FrameTree;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Exception;
+use Angrycolony\FontMetrics;
+use Angrycolony\Frame\FrameTree;
 
 /**
  * The master stylesheet class

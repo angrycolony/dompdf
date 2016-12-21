@@ -7,10 +7,10 @@
  */
 namespace Angrycolony;
 
-use Dompdf\Exception;
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Table as TableFrameDecorator;
-use Dompdf\FrameDecorator\TableCell as TableCellFrameDecorator;
+use Angrycolony\Exception;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Table as TableFrameDecorator;
+use Angrycolony\FrameDecorator\TableCell as TableCellFrameDecorator;
 
 /**
  * Maps table cells to the table grid.

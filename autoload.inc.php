@@ -25,4 +25,4 @@ require_once __DIR__ . '/lib/php-svg-lib/src/autoload.php';
  */
 require_once __DIR__ . '/src/Autoloader.php';
 
-Dompdf\Autoloader::register();
+Angrycolony\Autoloader::register();

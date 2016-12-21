@@ -7,13 +7,13 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Css;
+namespace Angrycolony\Css;
 
-use Dompdf\Adapter\CPDF;
-use Dompdf\Exception;
-use Dompdf\Helpers;
-use Dompdf\FontMetrics;
-use Dompdf\Frame;
+use Angrycolony\Adapter\CPDF;
+use Angrycolony\Exception;
+use Angrycolony\Helpers;
+use Angrycolony\FontMetrics;
+use Angrycolony\Frame;
 
 /**
  * Represents CSS properties.

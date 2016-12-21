@@ -7,7 +7,7 @@
  */
 namespace Angrycolony\FrameDecorator;
 
-use Dompdf\Cellmap;
+use Angrycolony\Cellmap;
 use DOMNode;
 use Angrycolony\Dompdf;
 use Angrycolony\Frame;

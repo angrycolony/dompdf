@@ -1,7 +1,7 @@
 <?php
-namespace Dompdf\Tests;
+namespace Angrycolony\Tests;
 
-use Dompdf\Options;
+use Angrycolony\Options;
 use PHPUnit_Framework_TestCase;
 
 class OptionsTest extends PHPUnit_Framework_TestCase

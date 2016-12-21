@@ -1,7 +1,7 @@
 <?php
-namespace Dompdf\Tests;
+namespace Angrycolony\Tests;
 
-use Dompdf\Helpers;
+use Angrycolony\Helpers;
 use PHPUnit_Framework_TestCase;
 
 class HelpersTest extends PHPUnit_Framework_TestCase
