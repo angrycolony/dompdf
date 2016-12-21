@@ -8,7 +8,7 @@ namespace Angrycolony;
  */
 class Autoloader
 {
-    const PREFIX = 'Dompdf';
+    const PREFIX = 'Angrycolony';
 
     /**
      * Register the autoloader
