@@ -5,11 +5,11 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf;
+namespace Angrycolony;
 
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Block;
-use Dompdf\FrameDecorator\Page;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Block;
+use Angrycolony\FrameDecorator\Page;
 
 /**
  * The line box class

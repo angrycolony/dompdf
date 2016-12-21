@@ -6,11 +6,11 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameReflower;
+namespace Angrycolony\FrameReflower;
 
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Block as BlockFrameDecorator;
-use Dompdf\FrameDecorator\Page as PageFrameDecorator;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Block as BlockFrameDecorator;
+use Angrycolony\FrameDecorator\Page as PageFrameDecorator;
 
 /**
  * Reflows pages

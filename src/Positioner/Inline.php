@@ -6,12 +6,12 @@
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
 
-namespace Dompdf\Positioner;
+namespace Angrycolony\Positioner;
 
-use Dompdf\FrameDecorator\AbstractFrameDecorator;
-use Dompdf\FrameDecorator\Inline as InlineFrameDecorator;
-use Dompdf\FrameDecorator\Block as BlockFrameDecorator;
-use Dompdf\Exception;
+use Angrycolony\FrameDecorator\AbstractFrameDecorator;
+use Angrycolony\FrameDecorator\Inline as InlineFrameDecorator;
+use Angrycolony\FrameDecorator\Block as BlockFrameDecorator;
+use Angrycolony\Exception;
 
 /**
  * Positions inline frames

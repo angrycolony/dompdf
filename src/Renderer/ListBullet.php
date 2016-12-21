@@ -6,13 +6,13 @@
  * @author  Helmut Tischer <htischer@weihenstephan.org>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Renderer;
+namespace Angrycolony\Renderer;
 
-use Dompdf\Helpers;
-use Dompdf\FontMetrics;
-use Dompdf\Frame;
-use Dompdf\Image\Cache;
-use Dompdf\FrameDecorator\ListBullet as ListBulletFrameDecorator;
+use Angrycolony\Helpers;
+use Angrycolony\FontMetrics;
+use Angrycolony\Frame;
+use Angrycolony\Image\Cache;
+use Angrycolony\FrameDecorator\ListBullet as ListBulletFrameDecorator;
 
 /**
  * Renders list bullets

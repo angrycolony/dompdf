@@ -5,13 +5,13 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
-use Dompdf\Css\Style;
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Frame;
-use Dompdf\Renderer;
+use Angrycolony\Css\Style;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Frame;
+use Angrycolony\Renderer;
 
 /**
  * Decorates frames for page layout

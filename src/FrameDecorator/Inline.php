@@ -6,12 +6,12 @@
  * @author  Helmut Tischer <htischer@weihenstephan.org>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
 use DOMElement;
-use Dompdf\Dompdf;
-use Dompdf\Frame;
-use Dompdf\Exception;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
+use Angrycolony\Exception;
 
 /**
  * Decorates frames for inline layout

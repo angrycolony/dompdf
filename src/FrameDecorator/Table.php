@@ -5,13 +5,13 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
 use Dompdf\Cellmap;
 use DOMNode;
-use Dompdf\Dompdf;
-use Dompdf\Frame;
-use Dompdf\Frame\Factory;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
+use Angrycolony\Frame\Factory;
 
 /**
  * Decorates Frames for table layout

@@ -7,11 +7,11 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Image;
+namespace Angrycolony\Image;
 
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Exception\ImageException;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Exception\ImageException;
 
 /**
  * Static class that resolves image urls and downloads and caches

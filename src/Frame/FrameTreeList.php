@@ -1,8 +1,8 @@
 <?php
-namespace Dompdf\Frame;
+namespace Angrycolony\Frame;
 
 use IteratorAggregate;
-use Dompdf\Frame;
+use Angrycolony\Frame;
 
 /**
  * Pre-order IteratorAggregate

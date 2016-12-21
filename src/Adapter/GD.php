@@ -6,12 +6,12 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Adapter;
+namespace Angrycolony\Adapter;
 
-use Dompdf\Canvas;
-use Dompdf\Dompdf;
-use Dompdf\Image\Cache;
-use Dompdf\Helpers;
+use Angrycolony\Canvas;
+use Angrycolony\Dompdf;
+use Angrycolony\Image\Cache;
+use Angrycolony\Helpers;
 
 /**
  * Image rendering interface

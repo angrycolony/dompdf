@@ -1,9 +1,9 @@
 <?php
 
-namespace Dompdf;
+namespace Angrycolony;
 
-use Dompdf\Css\Style;
-use Dompdf\Frame\FrameList;
+use Angrycolony\Css\Style;
+use Angrycolony\Frame\FrameList;
 
 /**
  * @package dompdf

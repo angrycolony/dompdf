@@ -6,15 +6,15 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameReflower;
+namespace Angrycolony\FrameReflower;
 
-use Dompdf\FontMetrics;
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Block as BlockFrameDecorator;
-use Dompdf\FrameDecorator\TableCell as TableCellFrameDecorator;
-use Dompdf\FrameDecorator\Text as TextFrameDecorator;
-use Dompdf\Exception;
-use Dompdf\Css\Style;
+use Angrycolony\FontMetrics;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Block as BlockFrameDecorator;
+use Angrycolony\FrameDecorator\TableCell as TableCellFrameDecorator;
+use Angrycolony\FrameDecorator\Text as TextFrameDecorator;
+use Angrycolony\Exception;
+use Angrycolony\Css\Style;
 
 /**
  * Reflows block frames

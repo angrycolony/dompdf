@@ -1,19 +1,19 @@
 <?php
 
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
 use DOMElement;
 use DOMNode;
 use DOMText;
-use Dompdf\Helpers;
-use Dompdf\Dompdf;
-use Dompdf\Frame;
-use Dompdf\Frame\FrameTreeList;
-use Dompdf\Frame\Factory;
-use Dompdf\FrameReflower\AbstractFrameReflower;
-use Dompdf\Css\Style;
-use Dompdf\Positioner\AbstractPositioner;
-use Dompdf\Exception;
+use Angrycolony\Helpers;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
+use Angrycolony\Frame\FrameTreeList;
+use Angrycolony\Frame\Factory;
+use Angrycolony\FrameReflower\AbstractFrameReflower;
+use Angrycolony\Css\Style;
+use Angrycolony\Positioner\AbstractPositioner;
+use Angrycolony\Exception;
 
 /**
  * @package dompdf

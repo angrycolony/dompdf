@@ -5,15 +5,15 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameReflower;
+namespace Angrycolony\FrameReflower;
 
-use Dompdf\Adapter\CPDF;
-use Dompdf\Css\Style;
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Block;
-use Dompdf\Frame\Factory;
+use Angrycolony\Adapter\CPDF;
+use Angrycolony\Css\Style;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Block;
+use Angrycolony\Frame\Factory;
 
 /**
  * Base reflower class

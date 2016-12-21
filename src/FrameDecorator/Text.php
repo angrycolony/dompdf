@@ -7,13 +7,13 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
-use Dompdf\Dompdf;
-use Dompdf\Frame;
-use Dompdf\Exception;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
+use Angrycolony\Exception;
 use DOMText;
-use Dompdf\FontMetrics;
+use Angrycolony\FontMetrics;
 
 /**
  * Decorates Frame objects for text layout

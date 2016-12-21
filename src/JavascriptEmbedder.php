@@ -5,9 +5,9 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf;
+namespace Angrycolony;
 
-use Dompdf\Frame;
+use Angrycolony\Frame;
 
 /**
  * Embeds Javascript into the PDF document

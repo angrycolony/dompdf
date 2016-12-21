@@ -1,14 +1,14 @@
 <?php
 
-namespace Dompdf\Frame;
+namespace Angrycolony\Frame;
 
 use DOMDocument;
 use DOMNode;
 use DOMXPath;
 
-use Dompdf\Exception;
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Page;
+use Angrycolony\Exception;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Page;
 
 /**
  * @package dompdf

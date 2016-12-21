@@ -5,11 +5,11 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Renderer;
+namespace Angrycolony\Renderer;
 
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\AbstractFrameDecorator;
-use Dompdf\Helpers;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\AbstractFrameDecorator;
+use Angrycolony\Helpers;
 
 /**
  * Renders block frames

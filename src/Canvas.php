@@ -7,7 +7,7 @@
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
 
-namespace Dompdf;
+namespace Angrycolony;
 
 /**
  * Main rendering interface

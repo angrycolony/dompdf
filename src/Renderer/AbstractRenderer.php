@@ -7,15 +7,15 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Renderer;
+namespace Angrycolony\Renderer;
 
-use Dompdf\Adapter\CPDF;
-use Dompdf\Css\Color;
-use Dompdf\Css\Style;
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Frame;
-use Dompdf\Image\Cache;
+use Angrycolony\Adapter\CPDF;
+use Angrycolony\Css\Color;
+use Angrycolony\Css\Style;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Frame;
+use Angrycolony\Image\Cache;
 
 /**
  * Base renderer class

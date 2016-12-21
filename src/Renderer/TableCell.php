@@ -5,10 +5,10 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Renderer;
+namespace Angrycolony\Renderer;
 
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\Table;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\Table;
 
 /**
  * Renders table cells

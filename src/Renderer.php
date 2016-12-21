@@ -5,17 +5,17 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf;
+namespace Angrycolony;
 
-use Dompdf\Renderer\AbstractRenderer;
-use Dompdf\Renderer\Block;
-use Dompdf\Renderer\Image;
-use Dompdf\Renderer\ListBullet;
-use Dompdf\Renderer\TableCell;
-use Dompdf\Renderer\TableRowGroup;
-use Dompdf\Renderer\Text;
+use Angrycolony\Renderer\AbstractRenderer;
+use Angrycolony\Renderer\Block;
+use Angrycolony\Renderer\Image;
+use Angrycolony\Renderer\ListBullet;
+use Angrycolony\Renderer\TableCell;
+use Angrycolony\Renderer\TableRowGroup;
+use Angrycolony\Renderer\Text;
 
-use Dompdf\Frame;
+use Angrycolony\Frame;
 
 /**
  * Concrete renderer

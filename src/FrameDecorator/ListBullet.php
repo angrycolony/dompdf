@@ -6,10 +6,10 @@
  * @author  Helmut Tischer <htischer@weihenstephan.org>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
-use Dompdf\Dompdf;
-use Dompdf\Frame;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
 
 /**
  * Decorates frames for list bullet rendering

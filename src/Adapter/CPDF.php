@@ -10,14 +10,14 @@
  */
 
 // FIXME: Need to sanity check inputs to this class
-namespace Dompdf\Adapter;
+namespace Angrycolony\Adapter;
 
-use Dompdf\Canvas;
-use Dompdf\Dompdf;
-use Dompdf\Helpers;
-use Dompdf\Exception;
-use Dompdf\Image\Cache;
-use Dompdf\PhpEvaluator;
+use Angrycolony\Canvas;
+use Angrycolony\Dompdf;
+use Angrycolony\Helpers;
+use Angrycolony\Exception;
+use Angrycolony\Image\Cache;
+use Angrycolony\PhpEvaluator;
 
 /**
  * PDF rendering interface

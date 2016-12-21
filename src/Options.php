@@ -1,5 +1,5 @@
 <?php
-namespace Dompdf;
+namespace Angrycolony;
 
 class Options
 {

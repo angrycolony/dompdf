@@ -1,5 +1,5 @@
 <?php
-namespace Dompdf\Frame;
+namespace Angrycolony\Frame;
 
 use IteratorAggregate;
 

@@ -7,11 +7,11 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Renderer;
+namespace Angrycolony\Renderer;
 
-use Dompdf\Adapter\CPDF;
-use Dompdf\FontMetrics;
-use Dompdf\Frame;
+use Angrycolony\Adapter\CPDF;
+use Angrycolony\FontMetrics;
+use Angrycolony\Frame;
 
 /**
  * Renders text frames

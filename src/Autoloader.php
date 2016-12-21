@@ -1,5 +1,5 @@
 <?php
-namespace Dompdf;
+namespace Angrycolony;
 
 /**
  * Autoloads Dompdf classes

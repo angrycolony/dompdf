@@ -5,17 +5,17 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Frame;
+namespace Angrycolony\Frame;
 
-use Dompdf\Css\Style;
-use Dompdf\Dompdf;
-use Dompdf\Exception;
-use Dompdf\Frame;
-use Dompdf\FrameDecorator\AbstractFrameDecorator;
+use Angrycolony\Css\Style;
+use Angrycolony\Dompdf;
+use Angrycolony\Exception;
+use Angrycolony\Frame;
+use Angrycolony\FrameDecorator\AbstractFrameDecorator;
 use DOMXPath;
-use Dompdf\FrameDecorator\Page as PageFrameDecorator;
-use Dompdf\FrameReflower\Page as PageFrameReflower;
-use Dompdf\Positioner\AbstractPositioner;
+use Angrycolony\FrameDecorator\Page as PageFrameDecorator;
+use Angrycolony\FrameReflower\Page as PageFrameReflower;
+use Angrycolony\Positioner\AbstractPositioner;
 
 /**
  * Contains frame decorating logic

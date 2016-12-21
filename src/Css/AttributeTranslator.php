@@ -6,9 +6,9 @@
  * @author  Fabien Ménager <fabien.menager@gmail.com>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Css;
+namespace Angrycolony\Css;
 
-use Dompdf\Frame;
+use Angrycolony\Frame;
 
 /**
  * Translates HTML 4.0 attributes into CSS rules

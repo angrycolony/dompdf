@@ -5,12 +5,12 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameReflower;
+namespace Angrycolony\FrameReflower;
 
-use Dompdf\FrameDecorator\Block as BlockFrameDecorator;
-use Dompdf\FrameDecorator\Table as TableFrameDecorator;
-use Dompdf\FrameDecorator\TableRow as TableRowFrameDecorator;
-use Dompdf\Exception;
+use Angrycolony\FrameDecorator\Block as BlockFrameDecorator;
+use Angrycolony\FrameDecorator\Table as TableFrameDecorator;
+use Angrycolony\FrameDecorator\TableRow as TableRowFrameDecorator;
+use Angrycolony\Exception;
 
 /**
  * Reflows table rows

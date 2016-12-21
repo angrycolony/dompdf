@@ -5,10 +5,10 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\FrameDecorator;
+namespace Angrycolony\FrameDecorator;
 
-use Dompdf\Dompdf;
-use Dompdf\Frame;
+use Angrycolony\Dompdf;
+use Angrycolony\Frame;
 
 /**
  * Table row group decorator

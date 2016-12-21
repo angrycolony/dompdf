@@ -5,9 +5,9 @@
  * @author  Benj Carson <benjcarson@digitaljunkies.ca>
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
-namespace Dompdf\Exception;
+namespace Angrycolony\Exception;
 
-use Dompdf\Exception;
+use Angrycolony\Exception;
 
 /**
  * Image exception thrown by DOMPDF

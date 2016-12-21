@@ -6,10 +6,10 @@
  * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
 
-namespace Dompdf\Positioner;
+namespace Angrycolony\Positioner;
 
-use Dompdf\FrameDecorator\AbstractFrameDecorator;
-use Dompdf\FrameDecorator\Table;
+use Angrycolony\FrameDecorator\AbstractFrameDecorator;
+use Angrycolony\FrameDecorator\Table;
 
 /**
  * Positions table cells
