@@ -483,7 +483,7 @@ class Dompdf
         }
 
         // Store parsing warnings as messages
-        set_error_handler(array("\\Dompdf\\Helpers", "record_warnings"));
+        set_error_handler(array("\\Angrycolony\\Helpers", "record_warnings"));
 
         // @todo Take the quirksmode into account
         // http://hsivonen.iki.fi/doctype/
